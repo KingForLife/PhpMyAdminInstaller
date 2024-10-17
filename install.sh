@@ -486,7 +486,7 @@ done
 curl --version
 if [[ $? == 127  ]]; then  apt -y install curl; fi
 
-source <(curl -s https://raw.githubusercontent.com/JulianGransee/BashSelect.sh/main/BashSelect.sh)
+source <(curl -s https://raw.githubusercontent.com/KingForLife/BashSelect.sh/main/BashSelect.sh)
 
 input
 
